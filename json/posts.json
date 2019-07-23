@@ -1,0 +1,45 @@
+{
+    "posts": [{
+        "titulo": "As Notícias do Brasil estão no Estadão",
+        "linhafina": "As informações mais importantes do Brasil, atualizadas e com apuração e credibilidade que você só encontra no Estadão",
+        "link":"http://www.estadao.com.br",
+        "chapeu":"Home",
+        "tipo":"text-danger"
+    },
+    {
+        "titulo": "Sobe para 36 o número de mortes por febre amarela no Estado de São Paulo",
+        "linhafina": "Último balanço registrava 21 óbitos, aumento de 71% em apenas uma semana",
+        "link":"http://saude.estadao.com.br/noticias/geral,sobe-para-36-o-numero-de-mortes-por-febre-amarela-em-sp,70002157748",
+        "chapeu":"Destaque",
+        "tipo":"text-success"
+    },
+    {
+        "titulo": "Justiça veta ato da CUT por Lula na Paulista",
+        "linhafina": "Antonio França, da 3.ª Vara da Fazenda Pública da Capital, observou que 'uma outra entidade indicou intuito em promover manifestação de ideal antagônico no mesmo dia', 24 próximo, quando Tribunal da Lava Jato vai julgar recurso do ex-presidente no processo do triplex do Guarujá",
+        "link":"http://politica.estadao.com.br/blogs/fausto-macedo/justica-veta-ato-da-cut-por-lula-na-paulista/",
+        "chapeu":"Política",
+        "tipo":"text-warning"
+    },
+    {
+        "titulo": "Manifestantes inflam 'pixuleco' na porta de residência de Lula em São Bernardo do Campo",
+        "linhafina": "Militantes favoráveis ao ex-presidente ameaçam retirar boneco",
+        "link":"http://politica.estadao.com.br/noticias/geral,manifestantes-inflam-pixuleco-na-porta-de-residencia-de-lula-em-sao-bernardo-do-campo,70002157667",
+        "chapeu":"Política",
+        "tipo":"d-inline-block mb-2 text-warning"
+    },
+	{
+        "titulo": "Temer assina projeto de lei sobre privatização de Eletrobrás, dizem fontes",
+        "linhafina": "Assinatura teria sido acelerada pelo Planalto para funcionar como mensagem positiva ao mercado, durante Fórum Econômico Mundial, em Davos",
+        "link":"http://economia.estadao.com.br/noticias/geral,temer-assina-projeto-de-lei-sobre-privacao-de-eletrobras-dizem-fontes,70002157630",
+        "chapeu":"Política",
+        "tipo":"d-inline-block mb-2 text-warning"
+    },
+	{
+        "titulo": "Colin Firth anuncia que não vai mais trabalhar com Woody Allen",
+        "linhafina": "Ator se junta a nomes como Mira Sorvino, Rachel Brosnahan, Greta Gerwig, Rebecca Hall e Timothée Chalamet, que manifestaram que se arrependem de terem colaborado com o diretor",
+        "link":"http://cultura.estadao.com.br/noticias/cinema,colin-firth-anuncia-que-nao-vai-mais-trabalhar-com-woody-allen,70002157514",
+        "chapeu":"Cultura",
+        "tipo":"d-inline-block mb-2 text-success"
+    }
+    ]
+}
